@@ -4,8 +4,9 @@
 - 💻 My main skills: **Python, React, C++, PHP, MERN Stack, Machine Learning**
 - 🚀 I’m passionate about **AI, ML, and full-stack development**
 - 👯 I’m looking to collaborate on **AI/ML and Web Development projects**
-- 🏎️ Outside of coding, I'm a fan of **F1 racing**
+- 🏎️ Outside of coding, I'm a fan of **F1 racing**  
   ![f1](https://github.com/user-attachments/assets/eb43a3b3-a5b4-4f7c-95b1-2cd382fc1b96)
+
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/MaheAlif?tab=repositories)
 - 💬 Ask me about **Machine Learning, MERN stack, Python, or F1!**
 - 📫 How to reach me: **maheejaman16@gmail.com**
