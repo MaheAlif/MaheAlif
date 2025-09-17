@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mahe-alif-3483b9170">Mahe Alif</a>, a Student & Aspiring Software Engineer</h3>
+<h3 align="left">Hi, I'm <a href="https://www.linkedin.com/in/mahe-alif-3483b9170">Mahe Alif</a>, a Student & Aspiring Software Engineer</h3>
 
 - 🎓 I’m currently studying **Computer Science and Engineering** at **United International University**
 - 💻 My main skills: **Python, React, C++, PHP, MERN Stack, Machine Learning**
