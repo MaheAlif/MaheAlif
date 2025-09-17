@@ -1,6 +1,6 @@
-<h3 align="left">Hi, I'm <a href="https://www.linkedin.com/in/mahe-alif-3483b9170">Mahe Alif</a>, a Student & Aspiring Software Engineer</h3>
+<h3 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mahe-alif-3483b9170">Mahe Alif</a>, a Student & Aspiring Software Engineer</h3>
 
-- 🎓 I’m currently studying Computer Science and Engineering at **United International University**
+- 🎓 I’m currently studying **Computer Science and Engineering** at **United International University**
 - 💻 My main skills: **Python, React, C++, PHP, MERN Stack, Machine Learning**
 - 🚀 I’m passionate about **AI, ML, and full-stack development**
 - 👯 I’m looking to collaborate on **AI/ML and Web Development projects**
@@ -9,36 +9,6 @@
 - 💬 Ask me about **Machine Learning, MERN stack, Python, or F1!**
 - 📫 How to reach me: **maheejaman16@gmail.com**
 - 🌐 Portfolio: [lustrous-melba-2e8722.netlify.app](https://lustrous-melba-2e8722.netlify.app/)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 98 contributions in the last year
-
-### 🔥 Pinned Projects
-
-- [AiLabAlgorithms (Jupyter Notebook)](https://github.com/MaheAlif/AiLabAlgorithms)
-- [alif-portfolio (JavaScript)](https://github.com/MaheAlif/alif-portfolio)
-- [Lightweight-and-Efficient-Threat-Detection-using-Human-Pose-and-Classical-Machine-Learning (Python)](https://github.com/MaheAlif/Lightweight-and-Efficient-Threat-Detection-using-Human-Pose-and-Classical-Machine-Learning)
-- [New-typing-speed-tester (TypeScript)](https://github.com/MaheAlif/New-typing-speed-tester)
-- [typing-speed-test (TypeScript)](https://github.com/MaheAlif/typing-speed-test)
-- [youtube-player (JavaScript)](https://github.com/MaheAlif/youtube-player)
-
-### 🟩 Contribution Graph
-
-![Contribution Graph](https://user-images.githubusercontent.com/your-github-id/your-custom-graph.png)
-<!-- You can update the image above with a real URL or use GitHub's default contribution graph. -->
-
-_Last year: 98 contributions (as of Sep 2025):_
-
-![Contributions Calendar](https://github.com/MaheAlif/MaheAlif/blob/main/contributions.svg)
-<!-- Or use the GitHub auto-generated contributions chart -->
-
-<!--END_SECTION:waka-->
-
 
 <h3 align="left">Connect with me:</h3>
 
