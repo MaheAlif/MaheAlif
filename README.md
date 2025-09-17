@@ -5,17 +5,18 @@
 - 🚀 I’m passionate about **AI, ML, and full-stack development**
 - 👯 I’m looking to collaborate on **AI/ML and Web Development projects**
 - 🏎️ Outside of coding, I'm a fan of **F1 racing**
+  ![f1](https://github.com/user-attachments/assets/eb43a3b3-a5b4-4f7c-95b1-2cd382fc1b96)
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/MaheAlif?tab=repositories)
 - 💬 Ask me about **Machine Learning, MERN stack, Python, or F1!**
 - 📫 How to reach me: **maheejaman16@gmail.com**
-- 🌐 Portfolio: [lustrous-melba-2e8722.netlify.app](https://lustrous-melba-2e8722.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/MaheAlif?label=Follow&style=social)](https://github.com/MaheAlif?tab=followers)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mahe-alif-3483b9170/)](https://www.linkedin.com/in/mahe-alif-3483b9170/)
-[![Twitter Badge](https://img.shields.io/badge/-@AlifThePanda-1da1f2?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/AlifThePanda)](https://x.com/AlifThePanda)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=social&logo=Firefox&logoColor=orange&link=https://lustrous-melba-2e8722.netlify.app/)](https://lustrous-melba-2e8722.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=flat&logo=github)](https://github.com/MaheAlif?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahe-alif-3483b9170/)
+[![X](https://img.shields.io/badge/X-@AlifThePanda-1da1f2?style=flat&logo=X)](https://x.com/AlifThePanda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)](https://lustrous-melba-2e8722.netlify.app/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
